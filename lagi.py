@@ -1,0 +1,1 @@
+print ("belajar coba lagi")

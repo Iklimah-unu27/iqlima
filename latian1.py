@@ -1,0 +1,1 @@
+print ("coba belajar lagi yaa,, semangat")
